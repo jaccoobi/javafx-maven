@@ -3,5 +3,5 @@
 A basic template for working with javaFX and Maven
 
 
-
-[Subscribe to Helios Playz](https://www.youtube.com/@HeliosPlayz)
+Subscribe to 
+[Helios Playz](https://www.youtube.com/@HeliosPlayz)
